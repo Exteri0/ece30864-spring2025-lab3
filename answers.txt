@@ -16,3 +16,15 @@ Q3:
   Sprint Review Meeting:
     1- Explain what value the project adds to the company. 
     2- Features sprint hindrances, new features, and a review of whether the sprint goal was accomplished. 
+
+Q4:
+  Epic: 
+    An Epic captures a large body of work. It is essentially a large user story that can be broken down into a number of smaller stories. 
+    It may take several sprints to complete an epic.
+  Story:
+    A Story or user story is a software system requirement that is expressed in a few short sentences, ideally using non-technical language.
+    A user story is the smallest unit of work that needs to be done.
+  Bug:
+    A bug is a problem which impairs or prevents the functions of a product.
+  Task:
+    A Task represents a technical activity, like design a diagram, code a functionality, test a device, or prepare dataset
