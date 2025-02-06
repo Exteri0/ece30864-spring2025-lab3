@@ -1,3 +1,7 @@
 Q1: 
   Agile Pros: Flexibility and Immediate feedback.
   Agile Cons: Lack of documentation and Lack of predictability.
+
+Q2:
+  A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. 
+  Product Owners manage the product backlog and ensure the company gains maximum value from the product.
