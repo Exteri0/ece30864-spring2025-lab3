@@ -5,3 +5,14 @@ Q1:
 Q2:
   A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. 
   Product Owners manage the product backlog and ensure the company gains maximum value from the product.
+
+Q3:
+  Sprint Planning: 
+    1- Set a sprint goal consisting of a plan summary for the next sprint. 
+    2- Review a sprint product backlog that supports the set sprint goal and reviews the estimates.
+  Daily Scrum Meeting:
+    1- Briefly discuss task statuses and ensure the goals of the Scrum team and the product owner stay aligned.
+    2- Overview of each thing members plan to do, or listing off appointments and meetings. 
+  Sprint Review Meeting:
+    1- Explain what value the project adds to the company. 
+    2- Features sprint hindrances, new features, and a review of whether the sprint goal was accomplished. 
