@@ -1,0 +1,3 @@
+Q1: 
+  Agile Pros: Flexibility and Immediate feedback.
+  Agile Cons: Lack of documentation and Lack of predictability.
